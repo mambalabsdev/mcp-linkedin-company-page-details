@@ -1,0 +1,39 @@
+{
+  "name": "mcp-linkedin-company-page-details",
+  "displayName": "LinkedIn Company Page Details",
+  "version": "1.0.0",
+  "description": "MCP server for LinkedIn Company Page Details: company size, industry, website, and followers from public LinkedIn pages.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-linkedin-company-page-details",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "linkedin",
+    "company",
+    "firmographics",
+    "company-data",
+    "b2b",
+    "enrichment",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "linkedin",
+    "company",
+    "firmographics",
+    "company-data",
+    "b2b",
+    "enrichment",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}
