@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.mambabuilt/mcp-linkedin-company-page-details",
   "description": "LinkedIn company details from public pages: size, industry, website, followers, HQ.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/mambalabsdev/mcp-linkedin-company-page-details",
     "source": "github"
@@ -11,7 +11,7 @@
     {
       "registryType": "npm",
       "identifier": "@mambalabsdev/mcp-linkedin-company-page-details",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "transport": {
         "type": "stdio"
       },
