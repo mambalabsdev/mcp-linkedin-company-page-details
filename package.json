@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-linkedin-company-page-details",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for LinkedIn Company Page Details: company size, industry, website, and followers from public LinkedIn pages.",
   "type": "module",
   "bin": {
